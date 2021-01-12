@@ -161,7 +161,7 @@ module.exports = {
         port: 8084, // 切换默认端口
         proxy: {
             '/api': {
-                target: 'https://195.123.239.109/aixuexi',
+                target: 'https://www.hushuaiace.fun/aixuexi/',
                 // target: 'http://localhost:8085',
                 changeOrigin: true,
                 pathRewrite: {

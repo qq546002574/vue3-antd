@@ -206,7 +206,7 @@ const axios = new VAxios({
         // 消息提示类型
         errorMessageMode: 'none',
         // 线上接口地址
-        apiUrl: 'https://www.hushuaiace.fun/aixuexi/',
+        apiUrl: 'https://www.hushuaiace.fun/aixuexi',
         // apiUrl: isDev ? process.env.BASE_URL : window.baseUrl.endsWith('/') ? window.baseUrl.slice(-1) : window.baseUrl,
     },
     // 后端用了@CrossOrigin注释前端

@@ -9,7 +9,8 @@ import {
     SettingOutlined,
     ApartmentOutlined,
     EditOutlined,
-    RobotFilled
+    RobotFilled,
+    ClockCircleFilled
 } from '@ant-design/icons-vue';
 
 export default {
@@ -23,5 +24,6 @@ export default {
     SettingOutlined,
     ApartmentOutlined,
     EditOutlined,
-    RobotFilled
+    RobotFilled,
+    ClockCircleFilled
 }
